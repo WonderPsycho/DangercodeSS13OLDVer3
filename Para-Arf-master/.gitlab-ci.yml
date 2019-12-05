@@ -1,0 +1,11 @@
+stages:
+  - build
+
+build:
+  stage: build
+  only:
+    - master
+  script:
+    - DreamMaker paradise.dme
+  after_script:
+    - rm paradise.dmb

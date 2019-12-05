@@ -1,0 +1,18 @@
+<h1>Welcome to ARFS Dallus!</h1>
+<p>A.R.F.S. Dallus is a furry, roleplaying SS13 server with medium-high roleplaying standards. We focus on having a large race variety with the creative choice to make your original characters. We have a friendly community and staff who would love to help you find your place here!
+<br /><br>
+
+<i>This server is running <a href="http://nanotrasen.se/">Paradise's</a> modification of the <a href="http://baystation12.net/">Baystation 12</a> and <a href="http://ss13.eu/">/tg/station13</a> SS13 code </i>
+  
+<br /><br /></p>
+
+
+<p><strong><u>Quick Links:</u></strong></p>
+<ul>
+<li><strong>GitHub:</strong> <a href="https://github.com/Tk420634/Para-Arf">https://github.com/Tk420634/Para-Arf</a></li>
+<li><strong>Forums:</strong> <a href="http://arfsdallus.freeforums.net/">http://arfsdallus.freeforums.net</a></li>
+<li><strong>Rules:</strong> <a href="http://arfsdallus.freeforums.net/board/3/rules">http://arfsdallus.freeforums.net/board/3/rules</a></li>
+<li><strong>Whitelist:</strong> <a href="http://arfsdallus.freeforums.net/board/8/whitelist-applications">http://arfsdallus.freeforums.net/board/8/whitelist-applications</a></li>
+<li><strong>Bug Report:</strong> <a href="https://github.com/Tk420634/Para-Arf/issues">https://github.com/Tk420634/Para-Arf/issues</a></li>
+<li><strong>Discord:</strong> <a href="https://discord.gg/VcFjDNT">https://discord.gg/VcFjDNT</a></li>
+</ul>
