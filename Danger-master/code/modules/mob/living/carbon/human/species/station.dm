@@ -91,7 +91,7 @@
 	unarmed_type = /datum/unarmed_attack/claws
 	primitive_form = "Stok"
 
-	species_traits = list(LIPS, IS_WHITELISTED)
+	species_traits = list(LIPS)
 	clothing_flags = HAS_UNDERWEAR | HAS_UNDERSHIRT | HAS_SOCKS
 	bodyflags = HAS_TAIL | HAS_HEAD_ACCESSORY | HAS_BODY_MARKINGS | HAS_HEAD_MARKINGS | HAS_SKIN_COLOR | HAS_ALT_HEADS | TAIL_WAGGING
 
@@ -539,7 +539,7 @@
 
 //	brute_mod = 0.8
 
-	species_traits = list(IS_WHITELISTED)
+
 	clothing_flags = HAS_UNDERWEAR | HAS_UNDERSHIRT | HAS_SOCKS
 	bodyflags = HAS_HEAD_ACCESSORY | HAS_HEAD_MARKINGS | HAS_BODY_MARKINGS
 	eyes = "kidan_eyes_s"
@@ -594,7 +594,7 @@
 	male_cough_sounds = list('sound/effects/slime_squish.ogg')
 	female_cough_sounds = list('sound/effects/slime_squish.ogg')
 
-	species_traits = list(LIPS, IS_WHITELISTED, NO_BREATHE, NO_INTORGANS, NO_SCAN)
+	species_traits = list(LIPS, NO_BREATHE, NO_INTORGANS, NO_SCAN)
 	clothing_flags = HAS_UNDERWEAR | HAS_UNDERSHIRT | HAS_SOCKS
 	bodyflags = HAS_SKIN_COLOR | NO_EYES
 //	dietflags = DIET_CARN
@@ -649,7 +649,7 @@
 	male_cough_sounds = list('sound/effects/slime_squish.ogg')
 	female_cough_sounds = list('sound/effects/slime_squish.ogg')
 
-	species_traits = list(LIPS, IS_WHITELISTED, NO_BREATHE, NO_INTORGANS, NO_SCAN)
+	species_traits = list(LIPS, NO_BREATHE, NO_INTORGANS, NO_SCAN)
 	clothing_flags = HAS_UNDERWEAR | HAS_UNDERSHIRT | HAS_SOCKS
 	bodyflags = HAS_SKIN_COLOR | NO_EYES | HAS_TAIL | TAIL_WAGGING | HAS_HEAD_ACCESSORY | HAS_BODY_MARKINGS | HAS_ALT_HEADS
 //	dietflags = DIET_CARN
@@ -851,7 +851,7 @@
 	default_genes = list(REMOTE_TALK)
 
 
-	species_traits = list(LIPS, IS_WHITELISTED, CAN_BE_FAT)
+	species_traits = list(LIPS, CAN_BE_FAT)
 	clothing_flags = HAS_UNDERWEAR | HAS_UNDERSHIRT | HAS_SOCKS
 	bodyflags =  HAS_BODY_MARKINGS
 	dietflags = DIET_HERB
@@ -1103,7 +1103,7 @@
 		"is sucking in warm air!",
 		"is holding their breath!")
 
-	species_traits = list(LIPS, IS_WHITELISTED)
+	species_traits = list(LIPS)
 	clothing_flags = HAS_UNDERWEAR | HAS_UNDERSHIRT
 	bodyflags = HAS_SKIN_TONE | HAS_BODY_MARKINGS
 	dietflags = DIET_OMNI
